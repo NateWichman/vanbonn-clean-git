@@ -1,0 +1,15 @@
+{
+  "name": "vanbonn-clean-git",
+  "version": "1.0.0",
+  "description": "Deletes all local git branches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Git",
+    "Clean"
+  ],
+  "author": "Nathan Van Bonn",
+  "license": "ISC"
+}
