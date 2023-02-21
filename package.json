@@ -1,6 +1,6 @@
 {
   "name": "vanbonn-clean-git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deletes all local git branches",
   "main": "/bin/index.js",
   "scripts": {

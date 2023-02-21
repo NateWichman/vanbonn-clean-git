@@ -1,4 +1,4 @@
-// git branch | grep -v \"develop\" | xargs git branch -D
+#!/usr/bin/env node
 
 
 const { exec } = require("child_process")
