@@ -2,7 +2,7 @@
   "name": "vanbonn-clean-git",
   "version": "1.0.0",
   "description": "Deletes all local git branches",
-  "main": "index.js",
+  "main": "/bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,13 @@
     "Git",
     "Clean"
   ],
+  "bin": {
+    "vanbonn-clean-git": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NateWichman/vanbonn-clean-git"
+  },
   "author": "Nathan Van Bonn",
   "license": "ISC"
 }
